@@ -1,2 +1,2 @@
-# git-github-2018
-2018 Git and Github Workshop
+# git-github-2019
+2019 Git and Github Workshop
