@@ -1,0 +1,4 @@
+1. Vim
+2. Linux OS
+3. Bash
+4. Shell Scripting
