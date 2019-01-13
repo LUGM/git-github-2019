@@ -1,0 +1,4 @@
+linux install fest 
+vim
+bash and os
+machine learning
